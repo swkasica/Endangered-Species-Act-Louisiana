@@ -2,7 +2,7 @@
 
 Sara Sneath, a NOLA.com | The Times-Picayune environment reporter, produced a three-part series on how the Endagered Species Act has played a role in the recovery of three iconic Louisiana species: the American alligator, the Brown Pelican, and the Louisiana Black Bear. 
 
-Her stories were published in Fall 2018 as a project called Saving the Southern Wild.
+Her stories were published in Fall 2018 as a project called 'Saving the Southern Wild.'
 
 American alligator (published 8/16/2018): https://www.nola.com/expo/news/erry-2018/08/afb534b8777909/saving-the-southern-wild-allig.html
 
