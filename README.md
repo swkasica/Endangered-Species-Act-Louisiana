@@ -3,7 +3,7 @@ Sara Sneath, a NOLA.com | The Times-Picayune environment reporter, produced a th
 
 Her stories were published in Fall 2018 as a project called 'Saving the Southern Wild.'
 
-American alligator (published 8/16/2018): https://www.nola.com/expo/news/erry-2018/08/afb534b8777909/saving-the-southern-wild-allig.html
+American alligator (published 8/16/2018): https://expo.nola.com/news/erry-2018/08/afb534b8777909/saving-the-southern-wild-allig.html
 
 Brown Pelican: stay tuned
 
