@@ -1,8 +1,8 @@
 #########################################################################
 ################## Graphics for Sara's Gator ESA story ################
 ######################### Joan Meiners 2017 #############################
-
-setwd("/Users/joanmeiners/Dropbox/NOLA.com/ESA_series_for_Sara/alligators")
+parent_dir = dirname(rstudioapi::getSourceEditorContext()$path)
+setwd(parent_dir)
 
 library(ggplot2)
 
